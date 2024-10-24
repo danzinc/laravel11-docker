@@ -1,0 +1,10 @@
+
+/*# sourceMappingURL=custom.min.css.map */
+.bg-info-subtle {
+    background-color: #2f434b!important
+}
+.auth-one-bg .bg-overlay {
+    background: -webkit-gradient(linear,left top,right top,from(#1157e4),to(#172c57));
+    /* background: linear-gradient(to right,#4c7ee3,#6691e7); */
+    opacity: .9;
+}
